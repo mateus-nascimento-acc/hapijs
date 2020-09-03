@@ -7,7 +7,7 @@
     "start:dev": "nodemon -w src -x \"babel-node src"
   },
   "dependencies": {
-    "@hapi/hapi": "^18.3.2",
+    "@hapi/hapi": "^19.1.1",
     "@hapi/joi": "^15.1.1",
     "apollo-server-hapi": "^2.9.3",
     "bcryptjs": "^2.4.3",
